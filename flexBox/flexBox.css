@@ -1,0 +1,17 @@
+.cabecera>img{
+    width: 300px;
+    height: auto;
+    margin-top: -20px;
+}
+
+.cabecera{
+    margin: 50px;
+    display: flex;
+   justify-content: space-between;
+    align-items: flex-end;
+}
+.menu ul{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
