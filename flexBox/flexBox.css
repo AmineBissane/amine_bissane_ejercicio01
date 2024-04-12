@@ -73,10 +73,115 @@
 .cards{
     background-color: white;
     width: auto;
-    height: 300px;
+    height: 1920px;
+    margin: 130px;
+}
+.cardtitle{
+    color: #6E6E6E;
+    font-size: 50px;
+    background-color: white;
+    
 }
 
+.gridcard1{
+    display: grid;
+    background-color: #ffffff;
+    border-radius: 60px;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: 560px 100px;
+    gap: 40px;
+    margin-left: 100px;
+    margin-right: 130px;
+}
 
+.gridcard2{
+    display: grid;
+    background-color: #ffffff;
+    border-radius: 60px;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: 460px 100px;
+    gap: 40px;
+    margin-left: 100px;
+    margin-right: 130px;
+}
+
+.gridcard3{
+    display: grid;
+    background-color: #ffffff;
+    border-radius: 60px;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 460px 100px;
+    gap: 40px;
+    margin-left: 100px;
+    margin-right: 130px;
+}
+
+.card1{
+    color: white;
+    font-size: 30px;
+    display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+    background-image: url(/flexBox/img/TÉCNICO\ SUPERIOR\ EN\ MARKETING\ Y\ PUBLICIDAD\ 2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.card2{
+    
+    color: white;
+    font-size: 30px;
+    display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+    background-image: url(/flexBox/img/TÉCNICO\ SUPERIOR\ EN\ MARKETING\ Y\ PUBLICIDAD\ 3.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.card3{
+    color: white;
+    font-size: 30px;
+    display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+    background-image: url(/flexBox/img/TÉCNICO\ SUPERIOR\ EN\ MARKETING\ Y\ PUBLICIDAD\ 4.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.card4{
+    color: white;
+    font-size: 30px;
+    display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+    background-image: url(/flexBox/img/TÉCNICO\ SUPERIOR\ EN\ MARKETING\ Y\ PUBLICIDAD\ 9.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.card6{
+    color: white;
+    font-size: 30px;
+    display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+    background-image: url(/flexBox/img/TÉCNICO\ SUPERIOR\ EN\ MARKETING\ Y\ PUBLICIDAD\ 8.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.card5{
+    color: white;
+    font-size: 30px;
+    display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+    background-image: url(/flexBox/img/TÉCNICO\ SUPERIOR\ EN\ MARKETING\ Y\ PUBLICIDAD\ 7.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
 
 
 
